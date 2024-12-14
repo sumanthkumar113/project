@@ -3,9 +3,6 @@
 https://github.com/user-attachments/assets/a27aca0a-05b9-43f2-981d-e4442c9cb329
 
 
-
-https://github.com/user-attachments/assets/564cd0a7-35fc-4edb-889a-52302bd231d5
-
 # Data Analytics and Visualization App
 
 ## Project Overview
