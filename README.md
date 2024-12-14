@@ -138,4 +138,4 @@ Extend functionality by modifying:
 
 ## 📧 Contact
 
-Sumanth Kumar - [your.email@example.com](mailto:sumanthk1313@gmail.com)
+Sumanth Kumar - [sumanthk1313@gmail.com](mailto:sumanthk1313@gmail.com)
